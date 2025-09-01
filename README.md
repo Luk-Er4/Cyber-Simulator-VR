@@ -58,6 +58,8 @@ You can switch to any Gemini model at line 261, but it should handle near to 1M 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deleting innocent files & overtime will deduct performance points. If the playtime takes too long, it results in game over.
 
+For more information about this project, visit the wiki page. https://github.com/Luk-Er4/Cyber-Simulator-VR/wiki
+
 ## Educational Impacts ##
 
 A lot of cybersecurity education programs use virtual machines to simulate actual cyberthreat cases. 
