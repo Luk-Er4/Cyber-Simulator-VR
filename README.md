@@ -74,11 +74,6 @@ This project is still in development stages, so a lot of features need to be upd
 Currently, players cannot get clues to find malicious files, so working on **Task Manager**, **Event Viewer**, and **Windows Registry Keys** is on the plan.
 Along with that, Gemini pipelines (or agents) for generating random cyberthreat cases will be updated as well. Linux File Systems will be included in the future (Android as well, if possible) . 
 
-## Contributors ##
-
-Faculty Mentor: Dr. Erdogan Dogdu <br>
-Student: Euijin Jung
-
 ## Acknowledgement ##
 
 I would like to appreciate Dr. Erdogan Dogdu and HSI STEM-Grant program supporting my project at Angelo State University.
